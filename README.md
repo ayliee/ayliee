@@ -1,5 +1,5 @@
 <a href="https://app.daily.dev/ayliee">
-  <img src="https://api.daily.dev/devcards/v2/CqZrtTKY33viNkI5zuevw.png?type=wide&r=85i" width="652" alt="Alya's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/v2/CqZrtTKY33viNkI5zuevw.png?type=wide&r=xv5" width="652" alt="Alya's Dev Card"/>
 </a>
 
 ## About Me :
@@ -7,7 +7,7 @@
 - My name is **Alya**
 - I'm a **graduate**
 - I'm from **Pakistan**
-- I'm a **Designer, Web, Minecraft, and Bot Developer**
+- I'm a **web, Minecraft, and bot developer**
 - I'm **20 years old**
 - I co-own **AeroX** with my friend **Aegis**
 
