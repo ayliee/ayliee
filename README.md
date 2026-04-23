@@ -2,9 +2,6 @@
   <img src="https://api.daily.dev/devcards/v2/CqZrtTKY33viNkI5zuevw.png?type=wide&r=85i" width="652" alt="Alya's Dev Card"/>
 </a>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ayliee&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/ayliee)
-![Anime Quote](https://animequotes.uwuify.space/api?theme=jujutsu)
-
 ## About Me :
 
 - My name is **Alya**
