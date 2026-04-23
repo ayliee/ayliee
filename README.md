@@ -7,7 +7,7 @@
 - My name is **Alya**
 - I'm a **graduate**
 - I'm from **Pakistan**
-- I'm a **web, Minecraft, and bot developer**
+- I'm a **Designer, Web, Minecraft, and Bot Developer**
 - I'm **20 years old**
 - I co-own **AeroX** with my friend **Aegis**
 
