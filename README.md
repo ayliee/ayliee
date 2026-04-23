@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/ayliee"><img src="https://api.daily.dev/devcards/v2/iTH80EymgAT3ocFRCnkyN.png?type=wide&r=pqy" width="652" alt="Alya's Dev Card"/></a>
+<a href="https://app.daily.dev/ayliee"><img src="https://api.daily.dev/devcards/v2/ayliee.png?type=wide" width="652" alt="Alya's Dev Card"/></a>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ayliee&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/ayliee)
 ![Anime Quote](https://animequotes.uwuify.space/api?theme=jujutsu)
 
