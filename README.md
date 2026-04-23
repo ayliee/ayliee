@@ -1,16 +1,38 @@
-## Hi there 👋
+<a href="https://app.daily.dev/ayliee"><img src="https://api.daily.dev/devcards/v2/iTH80EymgAT3ocFRCnkyN.png?type=wide&r=pqy" width="652" alt="Alya's Dev Card"/></a>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ayliee&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/ayliee)
+![Anime Quote](https://animequotes.uwuify.space/api?theme=jujutsu)
 
-<!--
-**ayliee/ayliee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me :
 
-Here are some ideas to get you started:
+- 👩‍💻 My name is **Alya**
+- 🎓 I'm a **graduate**
+- 🇵🇰 I'm from **Pakistan**
+- 💻 I'm a **web, Minecraft, and bot developer**
+- 🎂 I'm **20 years old**
+- 🤝 I co-own **AeroX** with my friend **Aegis**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me :
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/544047377540186114)](https://discord.gg/EpX9Rp4c)
+
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![YAML](https://img.shields.io/badge/yaml-%23cb171e.svg?style=for-the-badge&logo=yaml&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Discord.js](https://img.shields.io/badge/discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+# GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=ayliee&theme=tokyonight)
+
+---
